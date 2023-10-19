@@ -1,0 +1,26 @@
+body {
+    background-image: url("download\ \(1\).jpeg");
+}
+
+h1 {
+    background-color: lightgreen;
+    border: 5px solid mediumseagreen;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+P {
+    background-color: lightgreen;
+    border: 5px solid mediumseagreen;
+    padding: 5px;
+    margin: 5px;
+}
+
+h2 {
+    background-color: lightgreen;
+    border: 5px solid mediumseagreen;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
